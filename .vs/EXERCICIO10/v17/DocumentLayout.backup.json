@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\exercicios de c##\\EXERCICIO10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABFEECD-79B2-427C-87FB-14FCB647331A}|EXERCICIO10\\EXERCICIO10.csproj|c:\\users\\danie\\desktop\\exercicios de c##\\exercicio10\\exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABFEECD-79B2-427C-87FB-14FCB647331A}|EXERCICIO10\\EXERCICIO10.csproj|solutionrelative:exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\exercicios de c##\\EXERCICIO10\\EXERCICIO10\\Program.cs",
+              "RelativeDocumentMoniker": "EXERCICIO10\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\exercicios de c##\\EXERCICIO10\\EXERCICIO10\\Program.cs*",
+              "RelativeToolTip": "EXERCICIO10\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:53:35.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

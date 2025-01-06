@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\bin\Debug\net8.0\EXERCICIO10.exe
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\bin\Debug\net8.0\EXERCICIO10.deps.json
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\bin\Debug\net8.0\EXERCICIO10.runtimeconfig.json
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\bin\Debug\net8.0\EXERCICIO10.dll
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\bin\Debug\net8.0\EXERCICIO10.pdb
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\obj\Debug\net8.0\EXERCICIO10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\obj\Debug\net8.0\EXERCICIO10.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\obj\Debug\net8.0\EXERCICIO10.AssemblyInfo.cs
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\obj\Debug\net8.0\EXERCICIO10.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\obj\Debug\net8.0\EXERCICIO10.dll
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\obj\Debug\net8.0\refint\EXERCICIO10.dll
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\obj\Debug\net8.0\EXERCICIO10.pdb
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\obj\Debug\net8.0\EXERCICIO10.genruntimeconfig.cache
+C:\Users\danie\Desktop\exercicios de c##\EXERCICIO10\EXERCICIO10\obj\Debug\net8.0\ref\EXERCICIO10.dll
